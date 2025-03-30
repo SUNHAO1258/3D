@@ -1,0 +1,63 @@
+文件目录
+1：弹匣
+	Sig516_Quad_Rail_Hand_Gaurd_Top-1
+	1_-_Sig516_Magazine-1_cut_2
+	1_-_Sig516_Magazine2-1
+2：枪机	
+	234_cut_1
+	234_cut_2
+	1_-_Sig516_Lower_Receiver-1_cut_2
+	1_-_Sig516_Lower_Receiver-1_cut_1
+	Sig516_EJECTION_PORT_COVER_ASSEMBLY1
+	1_-_Sig_516_GRIP-1
+	1_-_Sig516_Safety-1
+	1_-_Sig516_Bolt_Catch-1
+	1_-_Sig516_Gas_Block-1
+	1_-_ar-trigger-1
+	1_-_TA-51_Adapter_Grip_Plate-1
+	1_-_Sig516_Trigger_Gaurd-1
+3枪口
+	1_-_Sig516_A2_Flash_Hider_Pitbull_Industries-1
+	
+4配件
+	RED_DOT_SIGHT_4
+	Front_Battle_Sight_Assem_-_Battle_Sight_Nut-1
+	Rear_Battle_Sight_Assem_-_Battle_Sight_Nut-1
+	Rear_Battle_Sight_Assem_-_Rear_BS_Peep-1（机瞄）
+	Front_Battle_Sight_Assem_-_Front_B_PostS-1（机瞄）
+	Rear_Battle_Sight_Assem_-_Rear_BS_Windage_adjuster_nut-1（机瞄）
+	Rear_Battle_Sight_Assem_-_Battle_sight_rear-1（机瞄）
+	Rear_Battle_Sight_Assem_-_bttle_sight_adjustement_screw-1（机瞄）
+	Front_Battle_Sight_Assem_-_Front_BS_sight_Screw-1（机瞄）
+	Front_Battle_Sight_Assem_-_Battle_Sight_Base-1
+	Rear_Battle_Sight_Assem_-_Battle_Sight_Base-1
+	1_-_TA-51_Flattop_Adapter-1
+	Front_Battle_Sight_Assem_-_Battle__Sight_ajustable_rail_grip-1
+	
+	
+5枪托
+	1_-_Sig516_Buffer_Tube-1
+	1_-_Sig516_Butt_Stock_unfinished-1
+	1_-_Sig516_Buffer_Back_Plate-1
+	1_-_Sig516_Crush_Washer-1
+6护木
+	1_-_Sig516_Quad_Rail_Hand_Gaurd_Top-1
+	1_-_Sig516_Quad_Rail_Hand_Gaurd_bottom-1
+
+7子弹
+	zidan_
+8枪管
+	1_-_Sig516_16_Barrel-1
+	
+9插销
+	1_-_Sig516_Front_Takedown_Pinprint_two_pcs-1
+	1
+	Front_Battle_Sight_Assem_-_Battle_Sight_Screw-1
+	Rear_Battle_Sight_Assem_-_Battle_Sight_Screw-1
+	Front_Battle_Sight_Assem_-_Rear_BS_Hinge_Pin-1
+	Rear_Battle_Sight_Assem_-_Rear_BS_Hinge_Pin-1
+未知：
+	1_-_Sig516_Gas_Piston_Valve-1
+	Sig516_Patrol_Rifle_Final_Assembly
+	1_-_Sig516_Buffer_Tube_Collar_Nut-1
+	1_-_Sig516_Magazine_Release_Button-1
